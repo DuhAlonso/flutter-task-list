@@ -103,7 +103,7 @@ class _HomeState extends State<Home> {
                           }
                       ),
                   ),
-                ),
+                ),   
                 IconButton(
                     icon: Icon(Icons.add_circle),
                     color: Colors.deepPurpleAccent,

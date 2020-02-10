@@ -15,4 +15,6 @@
 
 ## Screenshots
 
-Em breve!
+<img src="https://github.com/DuhAlonso/flutter-task-list/blob/master/screenshots/home.png" width="250"> <img src="https://github.com/DuhAlonso/flutter-task-list/blob/master/screenshots/keyboard.png" width="250">
+
+<img src="https://github.com/DuhAlonso/flutter-task-list/blob/master/screenshots/refresh.png" width="250"> <img src="https://github.com/DuhAlonso/flutter-task-list/blob/master/screenshots/delete.png" width="250"> <img src="https://github.com/DuhAlonso/flutter-task-list/blob/master/screenshots/refresh.png" width="250"> <img src="https://github.com/DuhAlonso/flutter-task-list/blob/master/screenshots/snackbar.png" width="250">

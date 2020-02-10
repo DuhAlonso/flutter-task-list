@@ -9,8 +9,6 @@
 
 :v: [Github](https://github.com/DuhAlonso)
 
-:v: [Facebook](https://www.facebook.com/DuhAlonso)
-
 :v: [Linkedin](https://www.linkedin.com/in/eduardo-alonso-685509b7/)
 
 :v: [Telegram](https://t.me/duhalonso)
